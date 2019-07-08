@@ -1,0 +1,18 @@
+{
+
+  "value":"12.00",
+  "sourceAccount":{
+    "accountNumber"	:"0160"
+  },
+  "targetAccount":{
+    "accountNumber"	:"01015346-0"
+  }
+}
+
+{
+  "value": "12.00",
+  "targetAccount":{
+    "accountNumber": "0160"
+  },
+  "typeDeposit": "MONEY"
+}
